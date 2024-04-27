@@ -1,0 +1,151 @@
+#title {
+    background-color: #628395;
+    color: #fff;
+}
+
+.VOTB {
+    height: 60% !important;
+    width: 40% !important;
+}
+
+.Vo2 {
+    height: 90%!important;
+    width: 40% !important;
+    padding-top: 40px !important;
+}
+
+h1 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 3.5rem !important;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: bold;
+    
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+p {
+    font-weight: bold;
+    
+    
+}
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* navigation bar */
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+
+.navbar-brand {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5rem;
+    font-weight: 100;    
+}
+
+.nav-item {
+    padding: 0 5px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+#skills {
+    padding: 1% 15%;
+}
+
+.sotware-engine {
+    text-align: center;
+    padding: 5%;
+}
+
+.java-script {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+}
+
+
+.icon {
+    color:#A2B5BB ;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #628395;
+}
+
+.about {
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.skillz {
+    text-align: center;
+    padding-top: 5rem;
+}
+
+.Contact {
+    padding-top: 5rem;
+    text-align: center;
+}
+
+.con {
+    font-size: larger;
+}
+
+.hob {
+    text-align: center;
+    padding-top: 3rem;
+}
+
+#hobbies-carousel {
+    text-align: center ;
+}
+
+.tech {
+    height: 20% !important;
+    width: 25% !important;
+    padding-top: 3rem;
+}
+
+.learn {
+    height: 20% !important;
+    width: 25% !important;
+    padding-top: 3rem; 
+}
+
+.hang {
+    height: 20% !important;
+    width: 25% !important;
+    padding-top: 3rem; 
+}
+
+.positive {
+    height: 20% !important;
+    width: 25% !important;
+    padding-top: 3rem;
+}
+
+@media (max-width: 1028px) {
+    #titLe {
+        text-align: center;
+    }
+}
